@@ -1,0 +1,175 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image:url(c4cfc6c4826588736f91237a8d3a3d47.jpg);
+    width: 100%;
+    height: 100%;
+}
+
+.giriş{
+    color: rgb(31, 141, 99);
+    font-size: 70px;
+   text-align: center;
+   padding: 2px;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.h3{
+    color: rgb(124, 64, 88);
+    font-size: 20px;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+
+
+.menu-container {
+    color: rgb(44, 150, 106);
+    background-color: rgb(223, 198, 204);
+    padding: 10px;
+    margin: 2px;
+}
+
+.menu {
+    border: 1px;
+    width: auto;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.about img{
+    width: 100x;
+    height: 250px;
+    border-radius: 30%;
+    margin-left: 60px;
+}
+
+.about-yazı{
+    background-color: rgb(233, 195, 209);
+    height: 300px;
+    width: 300px;
+    margin-left: 105px;
+}
+
+.about-yazı-içerik{
+    color:rgb(124, 64, 88);
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    padding-top: 55px;
+}
+
+.contct{
+    background-color:rgb(233, 195, 209);
+    height: 200px;
+    width: 400px;
+    display: inline;
+
+}
+
+.contct-içerik{
+    text-align: center;
+    color:rgb(124, 64, 88);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    padding-top: 50px;
+}
+
+.içerik{
+    border: 1px;
+    width: auto;
+    display:flex;
+    justify-content: space-around;
+    margin-left: 50px; 
+}
+
+.work{
+    background-color: rgb(44, 150, 106) ;
+    height: 200px;
+    width: 200px;
+    margin-left: 230px;
+    margin-right: 100px;
+}
+
+.link{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    padding-top: 70px;
+}
+
+.başlık{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(31, 141, 99);
+    font-size: 70px;
+    text-align: center;
+}
+
+.açıklama{
+    background-color:rgb(233, 195, 209) ;
+}
+
+.görsel1 img{
+    width: 200px;
+    height: 300px;
+}
+
+.görsel2 img{
+    width: 500px;
+    height: 300px;
+}
+
+.görsel3 img{
+    width: 500px;
+    min-height: 300px;
+}
+
+.görsel4 img{
+    width: 200px;
+    height: 300px;
+}
+
+.görsel5 img{
+    width: 200px;
+    height: 300px;
+}
+
+.görsel6 img{
+
+width: 200px;
+height: 300px;
+}
+
+.görsel7 img{
+    width: 200px;
+    height: 300px;
+}
+.görsel8 img{
+    width: 150px;
+    height: 300px;
+}
+
+.görsel9 img{
+    width: 200px;
+    height: 200px;
+}
+
+.görsel10 img{
+    width: 150px;
+    height: 300px;
+}
+
+.görsel11 img{
+    width: 300px;
+    height: 200px;
+}
+
+.görsel12 img{
+    width: 200px;
+    height: 200px;
+}
